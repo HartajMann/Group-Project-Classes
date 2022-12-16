@@ -83,7 +83,7 @@ while b!=1:
                 print("Back to the prevoius Menu")
             elif no2 == '3':
                 break
-# calling patient
+# calling patient 
     elif no == '4':
         i = 0
         a = Patient('', '', '', '', '')
