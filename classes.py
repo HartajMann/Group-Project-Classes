@@ -207,4 +207,3 @@ class Patient:
             file = open("patients.txt", "a")
             file.write("%s_%s_%s_%s_%s" % (lines[0], lines[1], lines[2], lines[3], lines[4]) + "\n")
             file.close()
-a
